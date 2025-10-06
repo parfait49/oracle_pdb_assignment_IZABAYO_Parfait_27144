@@ -65,7 +65,7 @@ Password: Ora#27144
 
 👉 Click here to view all project screenshots [`here`](https://github.com/parfait49/oracle_pdb_assignment_IZABAYO_Parfait_27144/tree/main/screenshot)
 
-📄 Click here to open the project report document 
+📄 Click here to open the project report document [`here`](https://github.com/parfait49/oracle_pdb_assignment_IZABAYO_Parfait_27144/tree/main/Report)
 
 📚 References
 
