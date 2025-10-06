@@ -63,9 +63,9 @@ Password: Ora#27144
 
 📂 Resources
 
-👉 Click here to view all project screenshots screenshot/
+👉 Click here to view all project screenshots 
 
-📄 Click here to open the project report document report/
+📄 Click here to open the project report document 
 
 📚 References
 
